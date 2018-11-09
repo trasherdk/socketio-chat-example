@@ -1,6 +1,8 @@
 # socketio-chat-example
 Simple example to demostrate socket.io 
 
+[Original Article](https://michaelheap.com/sending-messages-to-certain-clients-with-socket-io/)
+
 ## How to install ?
 
 Simply clone the repo and then install the dependencies 
